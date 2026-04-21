@@ -1,5 +1,5 @@
-# Awesome-System-Design-Tutorial
-Curated list of the best free resources for learning "System Design" (2026 edition). I recently discovered this excellent site that teaches System Design really well. This repo contains all the useful links, roadmaps, courses, and notes I collected from there + other great sources. 
+# Awesome-System-Design
+Curated list of the best free resources for learning "System Design" (2026 edition). 
 
 # A lil Introduction to System Design: 
 "System Design" is the process of designing the architecture, components, and interfaces for a system so that it meets the end-user requirements. This specifically designed System Design tutorial will help you to learn and master System Design concepts in the most efficient way, from the basics to the advanced level.
